@@ -10,6 +10,7 @@
   },
   "private": true,
   "dependencies": {
+    "@amc-technology/davinci-api": "^1.0.40",
     "@angular/animations": "~12.0.3",
     "@angular/common": "~12.0.3",
     "@angular/compiler": "~12.0.3",
