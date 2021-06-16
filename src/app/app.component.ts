@@ -13,6 +13,6 @@ export class AppComponent  implements OnInit{
   title = 'PowerApps';
 
   ngOnInit(){
-    setAppHeight(50, false);
+    setAppHeight(100, true);
   }
 }
